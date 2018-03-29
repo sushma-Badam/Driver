@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimaryDark"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/booknow"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="book_now" />
+
+        <item
+            android:id="@+id/farechart"
+            android:icon="@drawable/rupee"
+            android:title="Fare Chart" />
+
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share" />
+    </group>
+
+
+</menu>
