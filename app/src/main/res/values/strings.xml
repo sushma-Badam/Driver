@@ -30,4 +30,6 @@
     <string name="address">address</string>
     <string name="phone_no">phone no</string>
     <string name="pppassword1">pppassword!</string>
+    <string name="john_9999998888">John 9999998888</string>
+    <string name="bob_1234567890">Bob 1234567890</string>
 </resources>
